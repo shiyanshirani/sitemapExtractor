@@ -1,4 +1,4 @@
-# sitemapExtractor
+# Sitemap Extractor
 Extracts sitemap.xml for user desired url
 Using requests and BeautifulSoup library to request response from user desired urls and extracting sitemaps and saving in a new 'sitemap.xml' file in the directory
 
